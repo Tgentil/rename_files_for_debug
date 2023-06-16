@@ -1,5 +1,7 @@
 # Script de Renomeação de Arquivos
 
+[![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este é um script simples escrito em Python para renomear arquivos na pasta "data". Ele renomeia arquivos com extensão ".pdf" seguindo um padrão de nomenclatura específico.
 
 ## Pré-requisitos
